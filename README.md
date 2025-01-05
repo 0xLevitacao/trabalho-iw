@@ -28,7 +28,7 @@ A simple web app for managing and displaying a movie collection using the MERN s
    ```bash
    npm install
    ```
-3. Create a .env file in the root directory with:
+3. Create a .env file in the backend directory with:
    ```
    MONGODB_URI=your_mongodb_connection_string
    ADMIN_PASSWORD=your_admin_password
